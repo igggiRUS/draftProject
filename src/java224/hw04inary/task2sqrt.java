@@ -20,17 +20,17 @@ public class task2sqrt {
         int zeroBit = 32;
         String strZero = "0";
 
-        System.out.println("В Двоичном коде : " + strZero.repeat((zeroBit - (Integer.toBinaryString(a)).length())) + "" + Integer.toBinaryString(a));
+        System.out.printf("В Двоичном коде : %s %16d\n", strZero.repeat((zeroBit - (Integer.toBinaryString(a)).length())) + "" + Integer.toBinaryString(a), a);
 
         // степень числа
         for (int degree = 1; degree < 9; degree++) {
             int z = a << degree;
-            System.out.printf(" %8d ** %2d = %32s\n", a, (degree + 1), ((strZero.repeat((zeroBit - (Integer.toBinaryString(z)).length())) + "" + Integer.toBinaryString(z))));
+            System.out.printf(" %8d ** %2d = %32s %15s\n", a, (degree + 1), ((strZero.repeat((zeroBit - (Integer.toBinaryString(z)).length())) + "" + Integer.toBinaryString(z))), z);
         }
         // сделал дубль понимаю это плохо но волны не хотел когда 1 цифра прибавилась
         for (int degree = 9; degree < 32; degree++) {
             int z = a << degree;
-            System.out.printf(" %8d ** %d = %32s\n", a, (degree + 1), ((strZero.repeat((zeroBit - (Integer.toBinaryString(z)).length())) + "" + Integer.toBinaryString(z))));
+            System.out.printf(" %8d ** %d = %32s %15s\n", a, (degree + 1), ((strZero.repeat((zeroBit - (Integer.toBinaryString(z)).length())) + "" + Integer.toBinaryString(z))), z);
         }
     }
 }
