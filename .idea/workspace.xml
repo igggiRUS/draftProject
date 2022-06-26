@@ -1,11 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7337755-9c29-479c-aae0-25e624861497" name="Changes" comment="" />
+    <list default="true" id="c7337755-9c29-479c-aae0-25e624861497" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/java224/hw02/task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw02/task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw02/task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw02/task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw02/task05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw02/task06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw02/task07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw02/task08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw02/task09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw02/task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw02/task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw02/task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw03/task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw03/task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw03/task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw03/task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw03/task05CaseTernar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw03/task05ifElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw03/task06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw03/task07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw03/task08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw03/task09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw03/task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw03/task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw03/task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04inary/binDecimalBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04inary/binI_i.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04inary/binPositiveNegativeDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04inary/bitToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04inary/infoBytesPrimitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/if05/doWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/lesson02/PrivedieTipov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/lesson02/task001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/lesson02/task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/lesson02/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/lesson02/wrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/lesson06/task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/lesson06/task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/lesson06/task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/lesson07/app01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/lesson07/app02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/lesson08/forNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/lesson08/ioexcepiton1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/lesson10/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/special/kataAcademyPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/test/fff1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/test/ifElseScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/test/ifElseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/test/qwe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/test/switchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/test/task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/test/task06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/test/task0601.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/test/testScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/test/yearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/MyProg3110Boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/MyProg3110Ternar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/MyProg3111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/MyProg316v1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/MyProg316v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/MyProg317.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/MyProg317v1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/MyProg317v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/MyProg319.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/iFElse315v1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/iFElse315v2Ternar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/ifElse315v3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/proba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/ifElse31/scaNNNer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/increment26/MyNumber268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/increment26/myNumber261.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/increment26/myNumber265.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/logic32/MyProg3110Betwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/logic32/MyProg3110Ternar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/logic32/MyProg3110ifElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3211.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3212IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3212boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/logic32/MyProgram328.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/logic32/MyProgram328v1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/logic32/MyProgram329.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/operator25/myNumber2510.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/operator25/myNumber2511.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/operator25/myNumber2513.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/operator25/myNumber2514.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/operator25/myNumber2515.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/operator25/myNumber2516.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/operator25/myNumber2516XX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/operator25/myNumber2516x03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/operator25/myNumber2516xx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/string27/MyProgram2712.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/string27/MyProgram2713.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/string27/MyProgram2715.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/string27/MyProgram276.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/string27/MyProgram277.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/string27/MyProgram278.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/string27/MyProgram279.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/string27/integerStrInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/string27/task07Pay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/test28/MyNumber281.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/test28/MyProgram286.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/test28/MyProgram287.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/test28/MyProgram288.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/test28/MyProgram289.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2B7MBscnbvF0r48PxXNk5t6vAPC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,9 +131,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/misha/Документы/git/draftProject/src/stepik90684/string27",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/stepik90684/string27" />
+      <recent name="$PROJECT_DIR$/src/stepik90684/operator25" />
+      <recent name="$PROJECT_DIR$/src/stepik90684" />
+      <recent name="$PROJECT_DIR$/src/java224" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
