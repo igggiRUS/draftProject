@@ -1,4 +1,4 @@
-package ifElse31;
+package stepik90684.ifElse31;
 
 import java.util.Scanner;
 

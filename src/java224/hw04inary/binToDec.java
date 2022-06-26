@@ -5,9 +5,9 @@ import java.util.Scanner;
 /**
  * Программа переводит битвое значение в десятичное число
  */
-public class bitToDecimal {
+public class binToDec {
 	public static void main(String[] args) {
-		System.out.println("Введите число побитовое только 0 и 1");
+		System.out.println("введите двоичный код мы сконвретируем его в десятичный");
 		Scanner scanner = new Scanner(System.in);
 		String str = scanner.nextLine();
 		scanner.close();

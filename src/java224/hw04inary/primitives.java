@@ -1,7 +1,57 @@
-package hw04inary;
+package java224.hw04inary;
 
-public class infoBytesPrimitives {
+import java.util.Scanner;
+
+public class primitives {
 	public static void main(String[] args) {
+
+		/**
+		 * Ввод положительного десятичного числа
+		 * Перевод в двоичное число
+		 * Перевод в отрицательное двоичное число число
+		 * Перевод в отрицательное десятичное число
+		 * Так же добавляте нули перед положительным числом
+		 * Конвертировать числа не просто пришлось рыться гуглить стекОверфлоу помог
+		 * https://stackoverflow.com/questions/14883428/java-convert-binary-string-to-int
+		 */
+		int aBin = 0b0100;
+		System.out.printf("%3d -> %32s\n", aBin, Integer.toBinaryString(aBin));
+		int bBin = 0b1100;
+		System.out.printf("%3d -> %32s\n", bBin, Integer.toBinaryString(bBin));
+		int result1 = aBin & bBin;
+		System.out.printf("%d & %d %d\n", aBin, bBin, result1);
+
+		int result2 = 0b0100 & 0b1100;
+		System.out.printf("%d & %d %d\n", aBin, bBin, result1);
+
+		int zeroBit = 32;
+		String str = "0";
+		System.out.println("положительное десятичное число:  " + aBin);
+		System.out.println(
+				"отрицательное десятичное число: " + (Integer.parseUnsignedInt(Integer.toBinaryString(~aBin), 2) + 1));
+		System.out.println();
+		System.out.println("положительное: " + str.repeat((zeroBit - (Integer.toBinaryString(aBin)).length())) + ""
+				+ Integer.toBinaryString(aBin));
+		System.out.println("отрицательное: " + Integer.toBinaryString(~aBin));
+		System.out.println("положительное десятичное число:  " + bBin);
+		System.out.println(
+				"отрицательное десятичное число: " + (Integer.parseUnsignedInt(Integer.toBinaryString(~bBin), 2) + 1));
+		System.out.println();
+		System.out.println("положительное: " + str.repeat((zeroBit - (Integer.toBinaryString(bBin)).length())) + ""
+				+ Integer.toBinaryString(bBin));
+		System.out.println("отрицательное: " + Integer.toBinaryString(~bBin));
+		System.out.println();
+/**
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ */
+
 		// форма записи побитовго числа
 		int a = 0b100;
 		System.out.println("Битовая форма записи числа int = 0b100\nРавна десятичному числу: " + a);
