@@ -29,7 +29,7 @@ public class Task4Invers {
  */
         int result = flags ^ (mask << n);
         System.out.printf("\n%32s ^ \n%32s = \n%32s\n", (Integer.toBinaryString(flags)), (Integer.toBinaryString((mask << n))), (Integer.toBinaryString(result)));
-        System.out.printf("\n%32d ^ \n%32d =\n%32d", flags, mask, result);
+//        System.out.printf("\n%32d ^ \n%32d =\n%32d", flags, mask, result);
     }
 }
 
