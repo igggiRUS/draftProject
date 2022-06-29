@@ -3,7 +3,7 @@
 
 ### Eclipse ###
 .metadata
-bin/
+src/Java/
 tmp/
 *.tmp
 *.bak

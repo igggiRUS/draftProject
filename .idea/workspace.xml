@@ -5,9 +5,78 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7337755-9c29-479c-aae0-25e624861497" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lesson/app1v0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson/app1v1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson/app1v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson/app1v22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson/app1v4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson/app1v5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/DecToBin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/InToDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task0Not.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task122TESTSmall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task1And.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task2ShiftLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task3Or.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task4Invers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task5Rox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/mask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/version/App1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/version/App2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/version/App3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task12Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task7test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task9v00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task9v01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task9v03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task9v04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Bin/version/TaskZERO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Binary/day1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Binary/day2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Binary/task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Binary/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Binary/task3v0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Binary/task6Rox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw04Binary/testAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/knowengle/bin01Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/knowengle/bin02And.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/knowengle/bin03AndInvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/knowengle/bin04Or.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/knowengle/bin05Rox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/knowengle/bin06NoT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/knowengle/bin07Shift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/knowengle/bin07Shift3R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/knowengle/binInfo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessonArrays/app1array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessonArrays/app2array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/inputIF33/Example332.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/inputIF33/Example333.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/inputIF33/Example333v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/inputIF33/Example333v3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/inputIF33/Example333v4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/inputIF33/delete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04inary/task2sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04inary/task2sqrt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04inary/task2sqrt02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04inary/binResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Binary/binResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04inary/binToDec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Binary/binToDec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04inary/decToBin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Binary/decToBin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04inary/inf1Full.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Binary/inf1Full.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04inary/infoBin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Binary/infoBin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04inary/primitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Binary/primitives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04inary/task12Rox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Binary/task12Rox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04inary/task1Rox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Binary/task1Rox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04inary/task2sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Binary/task2sqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04inary/task4invert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Binary/task4invert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,31 +105,41 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/misha/Документы/git/draftProject/src/stepik90684/string27&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/misha/Документы/git/draftProject/src/java224/hw04Bin&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Markdown&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/java224/hw04Bin" />
       <recent name="$PROJECT_DIR$/src/stepik90684/string27" />
       <recent name="$PROJECT_DIR$/src/stepik90684/operator25" />
       <recent name="$PROJECT_DIR$/src/stepik90684" />
       <recent name="$PROJECT_DIR$/src/java224" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java224.hw04Bin" />
+      <recent name="java224.hw04Bin.version" />
+      <recent name="knowengle" />
+      <recent name="Lesson" />
       <recent name="java224.hw04inary" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java224.hw04inary.task2sqrt">
-    <configuration name="inf1Full" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw04inary.inf1Full" />
+  <component name="RunManager" selected="Application.Task122TESTSmall">
+    <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.Task12" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java224.hw04inary.*" />
+          <option name="PATTERN" value="java224.hw04Bin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java224.hw04inary.binResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw04inary.binResult" />
+    <configuration name="Task121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.Task121" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java224.hw04inary.*" />
+          <option name="PATTERN" value="java224.hw04Bin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java224.hw04inary.task12Rox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw04inary.task12Rox" />
+    <configuration name="Task122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.Task122" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java224.hw04inary.*" />
+          <option name="PATTERN" value="java224.hw04Bin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java224.hw04inary.task2sqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw04inary.task2sqrt" />
+    <configuration name="Task122TESTSmall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.Task122TESTSmall" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java224.hw04inary.*" />
+          <option name="PATTERN" value="java224.hw04Bin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2sqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw04inary.task2sqrt" />
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.Task7" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java224.hw04inary.*" />
+          <option name="PATTERN" value="java224.hw04Bin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.java224.hw04inary.task2sqrt" />
-        <item itemvalue="Application.java224.hw04inary.task2sqrt" />
-        <item itemvalue="Application.java224.hw04inary.binResult" />
-        <item itemvalue="Application.java224.hw04inary.task12Rox" />
-        <item itemvalue="Application.java224.hw04inary.inf1Full" />
+        <item itemvalue="Application.Task122TESTSmall" />
+        <item itemvalue="Application.Task122" />
+        <item itemvalue="Application.Task121" />
+        <item itemvalue="Application.Task12" />
+        <item itemvalue="Application.Task7" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +230,342 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/inputIF33/delete.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/inputIF33/delete.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/knowengle/bin07Shift3R.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/knowengle/bin07Shift3R.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/mask.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/mask.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/mask.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task121.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task122TESTSmall.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task122TESTSmall.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/Task122TESTSmall.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

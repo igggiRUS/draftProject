@@ -1,4 +1,4 @@
-package java224.hw04inary;
+package java224.hw04Binary;
 
 import java.util.Scanner;
 
@@ -28,7 +28,7 @@ public class task2sqrt {
             System.out.printf(" %8d ** %2d = %32s %15s\n", a, (degree + 1), ((strZero.repeat((zeroBit - (Integer.toBinaryString(z)).length())) + "" + Integer.toBinaryString(z))), z);
         }
         // сделал дубль понимаю это плохо но волны не хотел когда 1 цифра прибавилась
-        for (int degree = 9; degree < 32; degree++) {
+        for (long degree = 9; degree < 31; degree++) {
             int z = a << degree;
             System.out.printf(" %8d ** %d = %32s %15s\n", a, (degree + 1), ((strZero.repeat((zeroBit - (Integer.toBinaryString(z)).length())) + "" + Integer.toBinaryString(z))), z);
         }

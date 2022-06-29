@@ -1,4 +1,4 @@
-package java224.hw04inary;
+package java224.hw04Binary;
 
 import java.util.Scanner;
 

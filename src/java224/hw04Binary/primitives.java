@@ -1,6 +1,4 @@
-package java224.hw04inary;
-
-import java.util.Scanner;
+package java224.hw04Binary;
 
 public class primitives {
 	public static void main(String[] args) {

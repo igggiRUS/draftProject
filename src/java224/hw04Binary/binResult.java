@@ -1,4 +1,4 @@
-package java224.hw04inary;
+package java224.hw04Binary;
 
 public class binResult {
     public static void main(String[] args) {

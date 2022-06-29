@@ -1,8 +1,8 @@
-package java224.hw04inary;
+package java224.hw04Bin;
 
 import java.util.Scanner;
 
-public class decToBin {
+public class DecToBin {
 
     public static void main(String[] args) {
 
@@ -16,6 +16,7 @@ public class decToBin {
         System.out.println("Вы ввели число       : " + a);
         System.out.println("Инвертированное число: " + (Integer.parseUnsignedInt(Integer.toBinaryString(~a), 2) + 1));
         System.out.println();
+
 
         String pluse = strZero.repeat((zeroBit - (Integer.toBinaryString(a)).length())) + "" + Integer.toBinaryString(a);
         String minus = strZero.repeat((zeroBit - (Integer.toBinaryString(~a)).length())) + "" + Integer.toBinaryString(~a);
