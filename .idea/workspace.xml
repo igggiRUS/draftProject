@@ -5,12 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7337755-9c29-479c-aae0-25e624861497" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lesson/Gleb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Loop02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Loop03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/WhileLoop01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw07array/Info1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw07array/Info2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw07array/Info3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/Task12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/Task121.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/Task122.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/Task122TESTSmall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/Task4Invers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task4Invers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/Task12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/App1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/App2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/App3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task12Delete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task7test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task9v00.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task9v01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task9v03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task9v04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/TaskZERO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/binResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/binToDec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/day1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/day2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/decToBin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/inf1Full.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/infoBin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/primitives.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task12Rox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task1Rox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task2sqrt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task3v0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task4invert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task6Rox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/testAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw05ifElse/task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/task01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,23 +73,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowPull Requests.ShowToolbar": "false",
-    "last_opened_file_path": "/home/misha/Документы/git/draftProject",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowPull Requests.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/misha/Документы/git/draftProject&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Markdown"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Markdown&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/java224/hw04Bin" />
@@ -67,16 +99,29 @@
       <recent name="$PROJECT_DIR$/src/java224" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java224.hw05ifElse" />
       <recent name="java224.hw04Bin" />
       <recent name="java224.hw04Bin.version" />
       <recent name="knowengle" />
       <recent name="Lesson" />
-      <recent name="java224.hw04inary" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task122v02">
-    <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.Task12" />
+  <component name="RunManager" selected="Application.Loop03">
+    <configuration name="Loop03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Loop03" />
+      <module name="draftProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java224.hw05ifElse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.Task10" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java224.hw04Bin.InToDec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.InToDec" />
+    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.Task11" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -101,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java224.hw04Bin.Task122TESTSmall000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.Task122TESTSmall000" />
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.WhileLoop" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java224.hw04Bin.*" />
+          <option name="PATTERN" value="java224.hw05ifElse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,25 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java224.hw04Bin.Task1And" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.Task1And" />
+    <configuration name="WhileLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.WhileLoop01" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java224.hw04Bin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java224.hw04Bin.Task4Invers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.Task4Invers" />
-      <module name="draftProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java224.hw04Bin.*" />
+          <option name="PATTERN" value="java224.hw05ifElse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task122v02" />
-        <item itemvalue="Application.java224.hw04Bin.InToDec" />
-        <item itemvalue="Application.java224.hw04Bin.Task122TESTSmall000" />
-        <item itemvalue="Application.java224.hw04Bin.Task4Invers" />
-        <item itemvalue="Application.java224.hw04Bin.Task1And" />
+        <item itemvalue="Application.Loop03" />
+        <item itemvalue="Application.WhileLoop01" />
+        <item itemvalue="Application.WhileLoop" />
+        <item itemvalue="Application.Task11" />
+        <item itemvalue="Application.Task10" />
       </list>
     </recent_temporary>
   </component>
