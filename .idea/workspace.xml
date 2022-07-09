@@ -5,44 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7337755-9c29-479c-aae0-25e624861497" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson/Gleb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Loop02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Loop03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/WhileLoop01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw07array/Info1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw07array/Info2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw07array/Info3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/Task12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw04Bin/Task11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/App1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/App2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/App3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task12Delete.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task7test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task9v00.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task9v01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task9v03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/Task9v04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Bin/version/TaskZERO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/binResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/binToDec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/day1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/day2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/decToBin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/inf1Full.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/infoBin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/primitives.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task12Rox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task1Rox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task2sqrt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task3v0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task4invert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/task6Rox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw04Binary/testAll.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw05ifElse/task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/task01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
