@@ -31,25 +31,14 @@ public class Loop04While {
             n = start;
             start = end;
             end = n;
-
         }
         System.out.printf("%d %d", start, end);
-
-//        do {
-//
-//        }
         String message;
         while (start < end) {
             message = "текущий номер start: " + start;
             start++;
         }
-//
-//        do {
-//            System.out.printf("напишите перевод слова \"%s\": ", referenceEnglish);
-//            answer = sc.next();
-//        } while (!referenceRussian.equalsIgnoreCase(answer));
         sc.close();
-//        System.out.println("Верно");
     }
 }
 

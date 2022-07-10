@@ -1,4 +1,4 @@
-package hw02;
+package java224.hw02;
 import static java.lang.Math.*; // При вызове математических методов можно явно указать класс что бы его не прописывать в формулах
 
 public class task01 {

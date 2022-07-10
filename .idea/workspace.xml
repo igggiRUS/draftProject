@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7337755-9c29-479c-aae0-25e624861497" name="Changes" comment="">
+    <list default="true" id="c7337755-9c29-479c-aae0-25e624861497" name="Changes" comment="fixup! 1">
+      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task02v04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/del.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw02/task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw02/task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw05ifElse/Loop04While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Loop04While.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw05ifElse/task01.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +42,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ToolWindowPull Requests.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/misha/Документы/git/draftProject&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowPull Requests.ShowToolbar": "false",
+    "last_opened_file_path": "/home/misha/Документы/git/draftProject",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Markdown&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Markdown"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/java224/hw04Bin" />
@@ -69,9 +75,9 @@
       <recent name="Lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Loop03">
-    <configuration name="Loop03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Loop03" />
+  <component name="RunManager" selected="Application.Task02v04">
+    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task02" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -83,34 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.Task10" />
-      <module name="draftProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java224.hw04Bin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw04Bin.Task11" />
-      <module name="draftProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java224.hw04Bin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.WhileLoop" />
+    <configuration name="Task02v01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task02v01" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +102,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.WhileLoop01" />
+    <configuration name="Task02v02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task02v02" />
+      <module name="draftProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java224.hw05ifElse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task02v03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task02v03" />
+      <module name="draftProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java224.hw05ifElse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task02v04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task02v04" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Loop03" />
-        <item itemvalue="Application.WhileLoop01" />
-        <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.Task11" />
-        <item itemvalue="Application.Task10" />
+        <item itemvalue="Application.Task02v04" />
+        <item itemvalue="Application.Task02v03" />
+        <item itemvalue="Application.Task02v02" />
+        <item itemvalue="Application.Task02" />
+        <item itemvalue="Application.Task02v01" />
       </list>
     </recent_temporary>
   </component>
@@ -314,6 +320,41 @@
           <url>file://$PROJECT_DIR$/src/java224/hw04Bin/mask.java</url>
           <line>10</line>
           <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="177" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
