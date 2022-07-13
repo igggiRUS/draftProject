@@ -1,4 +1,4 @@
-package Kata1.zzz2;
+package Kata.Task;
 
 public class task01 {
 }
