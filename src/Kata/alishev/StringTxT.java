@@ -2,7 +2,7 @@ package Kata.alishev;
 
 //  https://www.youtube.com/watch?v=ERTDiGH3XUA
 //  Java SE. Урок 26. Класс String и его методы
-public class task03string1 {
+public class StringTxT {
     public static void main(String[] args) {
 //        Класс по умолчанию final от него нельзя наследоваться public final class String
 //        При нажатии "ctrl + P" видно, что может принимать данный класс
