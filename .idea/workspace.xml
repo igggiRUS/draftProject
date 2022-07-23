@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7337755-9c29-479c-aae0-25e624861497" name="Changes" comment="enum">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task03Division.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task03Pow.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task03v01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java224/if05/doWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/if05/doWhile.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java" afterDir="false" />
+>>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,9 +87,15 @@
       <recent name="knowengle" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Task03v01">
     <configuration name="Task03Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task03Division" />
+=======
+  <component name="RunManager" selected="Application.Task02">
+    <configuration name="EnumAnimalSeason2Pere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kata.alishev.EnumAnimalSeason2Pere" />
+>>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Task03Pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task03Pow" />
+=======
+    <configuration name="EnumAnimalSeason3Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kata.alishev.EnumAnimalSeason3Index" />
+>>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Task03v01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task03v01" />
+=======
+    <configuration name="Exception01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kata.alishev.Exception01" />
+>>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -121,12 +143,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw03.task02" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hw03.*" />
+=======
+    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task01" />
+      <module name="draftProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java224.hw05ifElse.*" />
+>>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +165,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw03.task11" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hw03.*" />
+=======
+    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task02" />
+      <module name="draftProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java224.hw05ifElse.*" />
+>>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +189,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Task03v01" />
         <item itemvalue="Application.Task03Pow" />
         <item itemvalue="Application.Task03Division" />
         <item itemvalue="Application.task02" />
         <item itemvalue="Application.task11" />
+=======
+        <item itemvalue="Application.Task02" />
+        <item itemvalue="Application.Task01" />
+        <item itemvalue="Application.Exception01" />
+        <item itemvalue="Application.EnumAnimalSeason3Index" />
+        <item itemvalue="Application.EnumAnimalSeason2Pere" />
+>>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
       </list>
     </recent_temporary>
   </component>
@@ -341,6 +389,7 @@
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task03Division.java</url>
           <line>13</line>
           <option name="timeStamp" value="157" />
@@ -385,6 +434,42 @@
           <line>9</line>
           <option name="timeStamp" value="165" />
         </line-breakpoint>
+=======
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+>>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
       </breakpoints>
     </breakpoint-manager>
   </component>

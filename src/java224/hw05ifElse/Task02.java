@@ -2,25 +2,31 @@ package java224.hw05ifElse;
 
 // 7:43 https://www.youtube.com/watch?v=snRFphzl-bU
 public class Task02 {
+<<<<<<< HEAD
     public static void main(String[] args) {
+=======
+    public static void main(String[] args) // throws InterruptedException
+    {
+>>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
 
-        long start = System.nanoTime();
+//        long start = System.nanoTime();
 
-        int maxNumber = 1_000_000;
+        int maxNumber = 1_000;
         int maxDivision = (int) Math.sqrt(maxNumber);
         int startup, counter;
-        for (startup = 2; startup < 100_000; startup++) {
+        // srartup первое натуральное число
+        for (startup = 6; startup < maxDivision; startup++) {
             counter = 0;
             for (int i = 1; i <= startup; i++) {
                 if (startup % i == 0)
                     counter++;
 // добавил последний if что бы отсечь лишние расчеты но что то разницы не заметил.
-                if (counter > 2) {
-                }
+//                if (counter > 2) {
+//                }
             }
 //            1 если число делится на себя 2 если число делится на единицу 1 + 1 = 2 произведения
 //            Если больше двух произведений то это не натуралное число
-            if (counter <= 2)
+            if (counter <= 2 )
                 System.out.println(startup);
             //             выполнение какой-то логики
         }
