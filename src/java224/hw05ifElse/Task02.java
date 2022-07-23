@@ -2,35 +2,37 @@ package java224.hw05ifElse;
 
 // 7:43 https://www.youtube.com/watch?v=snRFphzl-bU
 public class Task02 {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) // throws InterruptedException
+    {
 
-        long start = System.nanoTime();
+//        long start = System.nanoTime();
 
-        int maxNumber = 1_000_000;
+        int maxNumber = 1_000;
         int maxDivision = (int) Math.sqrt(maxNumber);
         int startup, counter;
-        for (startup = 2; startup < 100_000; startup++) {
+        // srartup первое натуральное число
+        for (startup = 6; startup < maxDivision; startup++) {
             counter = 0;
             for (int i = 1; i <= startup; i++) {
                 if (startup % i == 0)
                     counter++;
 // добавил последний if что бы отсечь лишние расчеты но что то разницы не заметил.
-                if (counter > 2) {
-                }
+//                if (counter > 2) {
+//                }
             }
 //            1 если число делится на себя 2 если число делится на единицу 1 + 1 = 2 произведения
 //            Если больше двух произведений то это не натуралное число
-            if (counter <= 2)
+            if (counter <= 2 )
                 System.out.println(startup);
             //             выполнение какой-то логики
         }
-        Thread.sleep(1000);
-        long finish = System.nanoTime();
-        long elapsed = finish - start;
-        System.out.printf("Прошло времени, нс: %33d:\n", elapsed);
-        System.out.printf("Прошло времени, мкс: %32d:\n", (elapsed / 1_000));
-        System.out.printf("Прошло времени, мс: %33d:\n", (elapsed / 1_000_000));
-        System.out.printf("Прошло времени, сек: %32d:\n", (elapsed / 1_000_000_000));
+//        Thread.sleep(1000);
+//        long finish = System.nanoTime();
+//        long elapsed = finish - start;
+//        System.out.printf("Прошло времени, нс: %33d:\n", elapsed);
+//        System.out.printf("Прошло времени, мкс: %32d:\n", (elapsed / 1_000));
+//        System.out.printf("Прошло времени, мс: %33d:\n", (elapsed / 1_000_000));
+//        System.out.printf("Прошло времени, сек: %32d:\n", (elapsed / 1_000_000_000));
     }
 }
 
