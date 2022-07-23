@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7337755-9c29-479c-aae0-25e624861497" name="Changes" comment="enum">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task03Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task03Pow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task03v01.java" afterDir="false" />
+    <list default="true" id="0d65bbff-f6ce-4231-ba48-2d80a71a7253" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/if05/doWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/if05/doWhile.java" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java" afterDir="false" />
->>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaFXApplication" />
-        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,7 +33,7 @@
   <component name="ProblemsViewState">
     <option name="showPreview" value="true" />
   </component>
-  <component name="ProjectId" id="2B7MBscnbvF0r48PxXNk5t6vAPC" />
+  <component name="ProjectId" id="29ibXt2MfuQ9M6K60J7lQ7xpF8L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -51,51 +43,27 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ToolWindowPull Requests.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/misha/Документы/git/draftProject/src/Kata/alishev&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/misha/Документы/git/IntelliJIDEA/Milkina&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
-  },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;SQL&quot;,
-      &quot;Markdown&quot;
-    ]
   }
 }</component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Kata/alishev" />
-      <recent name="$PROJECT_DIR$/src/java224/hw04Bin" />
-      <recent name="$PROJECT_DIR$/src/stepik90684/string27" />
-      <recent name="$PROJECT_DIR$/src/stepik90684/operator25" />
-      <recent name="$PROJECT_DIR$/src/stepik90684" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="java224.hw05ifElse" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Kata.alishev" />
       <recent name="java224.hw05ifElse" />
-      <recent name="java224.hw04Bin" />
-      <recent name="java224.hw04Bin.version" />
-      <recent name="knowengle" />
+      <recent name="String27" />
     </key>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.Task03v01">
-    <configuration name="Task03Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task03Division" />
-=======
-  <component name="RunManager" selected="Application.Task02">
-    <configuration name="EnumAnimalSeason2Pere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kata.alishev.EnumAnimalSeason2Pere" />
->>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
+  <component name="RunManager" selected="Application.Task06v00">
+    <configuration name="Task06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task06" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -107,13 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Task03Pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task03Pow" />
-=======
-    <configuration name="EnumAnimalSeason3Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kata.alishev.EnumAnimalSeason3Index" />
->>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
+    <configuration name="Test0002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Test0002" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -125,13 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Task03v01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task03v01" />
-=======
-    <configuration name="Exception01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kata.alishev.Exception01" />
->>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
+    <configuration name="WhileLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.WhileLoop01" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -143,21 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw03.task02" />
-      <module name="draftProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw03.*" />
-=======
-    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task01" />
+    <configuration name="java224.hw05ifElse.Task06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task06" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java224.hw05ifElse.*" />
->>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,21 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw03.task11" />
-      <module name="draftProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw03.*" />
-=======
-    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task02" />
+    <configuration name="java224.hw05ifElse.Task060001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw05ifElse.Task060001" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java224.hw05ifElse.*" />
->>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,39 +129,26 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.Task03v01" />
-        <item itemvalue="Application.Task03Pow" />
-        <item itemvalue="Application.Task03Division" />
-        <item itemvalue="Application.task02" />
-        <item itemvalue="Application.task11" />
-=======
-        <item itemvalue="Application.Task02" />
-        <item itemvalue="Application.Task01" />
-        <item itemvalue="Application.Exception01" />
-        <item itemvalue="Application.EnumAnimalSeason3Index" />
-        <item itemvalue="Application.EnumAnimalSeason2Pere" />
->>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
+        <item itemvalue="Application.Task06v00" />
+        <item itemvalue="Application.java224.hw05ifElse.Task06" />
+        <item itemvalue="Application.java224.hw05ifElse.Task060001" />
+        <item itemvalue="Application.java224.hw05ifElse.Test0002" />
+        <item itemvalue="Application.java224.hw05ifElse.WhileLoop01" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c7337755-9c29-479c-aae0-25e624861497" name="Changes" comment="" />
-      <created>1656252538420</created>
+      <changelist id="0d65bbff-f6ce-4231-ba48-2d80a71a7253" name="Changes" comment="" />
+      <created>1653598899660</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1656252538420</updated>
+      <updated>1653598899660</updated>
     </task>
-    <task id="LOCAL-00001" summary="if task03">
-      <created>1657573506782</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1657573506782</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,247 +161,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="if task03" />
-    <MESSAGE value="enum" />
-    <option name="LAST_COMMIT_MESSAGE" value="enum" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213v02.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/inputIF33/delete.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/inputIF33/delete.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stepik90684/logic32/MyProgram3213.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/knowengle/bin07Shift3R.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="106" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/knowengle/bin07Shift3R.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="107" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/mask.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="154" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/mask.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="155" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw04Bin/mask.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="156" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-<<<<<<< HEAD
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task03Division.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="157" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task03Division.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="158" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task03Division.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="159" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task03Division.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="160" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task03Division.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="161" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task03Pow.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="162" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task03Pow.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="163" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task03Pow.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="164" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task03Pow.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="165" />
-        </line-breakpoint>
-=======
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="157" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="158" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task01.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="159" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="161" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="162" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="163" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw05ifElse/Task02.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="164" />
-        </line-breakpoint>
->>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>

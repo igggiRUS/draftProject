@@ -2,15 +2,9 @@ package java224.hw05ifElse;
 
 // 7:43 https://www.youtube.com/watch?v=snRFphzl-bU
 public class Task02 {
-<<<<<<< HEAD
-    public static void main(String[] args) {
-=======
     public static void main(String[] args) // throws InterruptedException
     {
->>>>>>> 5542a4c0fe68829a9ee723e23d23f10ead6c5902
-
 //        long start = System.nanoTime();
-
         int maxNumber = 1_000;
         int maxDivision = (int) Math.sqrt(maxNumber);
         int startup, counter;
