@@ -4,7 +4,7 @@ package Kata.alishev;
 // enumeration = перечисление (сокр. enum)
 
 public enum Animal {
-    Dog("собака"), Cat("Кошка"), Frog("Лягушка");
+    DOG("собака"), CAT("Кошка"), FROG("Лягушка");
     //  поле
     private final String translation;
     //    конструктор

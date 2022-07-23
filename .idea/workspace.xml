@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7337755-9c29-479c-aae0-25e624861497" name="Changes" comment="enum">
-      <change afterPath="$PROJECT_DIR$/src/Kata/alishev/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kata/alishev/ArrayFor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kata/alishev/ArrayForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kata/alishev/ClassesAndObjectsPar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kata/alishev/EnumAnimalSeason.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kata/alishev/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kata/alishev/www1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kata/alishev/EnumAnimalSeason2Pere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kata/alishev/EnumAnimalSeason3Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kata/alishev/Exception01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kata/alishev/test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kata/alishev/ClassesAndObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kata/alishev/ClassesAndObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kata/alishev/task03string1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kata/alishev/StringTxT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kata/alishev/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kata/alishev/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kata/alishev/EnumAnimalSeason.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kata/alishev/EnumAnimalSeason.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kata/alishev/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kata/alishev/Season.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,6 +62,7 @@
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "SQL",
       "Markdown"
     ]
   }
@@ -84,20 +83,7 @@
       <recent name="knowengle" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EnumAnimalSeason">
-    <configuration name="ArrayForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kata.alishev.ArrayForEach" />
-      <module name="draftProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kata.alishev.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exception01">
     <configuration name="EnumAnimalSeason" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kata.alishev.EnumAnimalSeason" />
       <module name="draftProject" />
@@ -111,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kata.alishev.ClassesAndObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kata.alishev.ClassesAndObjects" />
+    <configuration name="EnumAnimalSeason2Pere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kata.alishev.EnumAnimalSeason2Pere" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kata.alishev.ClassesAndObjectsPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kata.alishev.ClassesAndObjectsPar" />
+    <configuration name="EnumAnimalSeason3Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kata.alishev.EnumAnimalSeason3Index" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -137,9 +123,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kata.alishev.StringTxT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kata.alishev.StringTxT" />
+    <configuration name="Exception01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kata.alishev.Exception01" />
       <module name="draftProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kata.alishev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kata.alishev.EnumAnimalSeason2Pere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kata.alishev.EnumAnimalSeason2Pere" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Kata.alishev.*" />
@@ -152,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exception01" />
+        <item itemvalue="Application.EnumAnimalSeason3Index" />
+        <item itemvalue="Application.EnumAnimalSeason2Pere" />
+        <item itemvalue="Application.Kata.alishev.EnumAnimalSeason2Pere" />
         <item itemvalue="Application.EnumAnimalSeason" />
-        <item itemvalue="Application.Kata.alishev.ClassesAndObjects" />
-        <item itemvalue="Application.Kata.alishev.ArrayForEach" />
-        <item itemvalue="Application.Kata.alishev.StringTxT" />
-        <item itemvalue="Application.Kata.alishev.ClassesAndObjectsPar" />
       </list>
     </recent_temporary>
   </component>

@@ -5,21 +5,21 @@ package Kata.alishev;
 //30:00
 public class EnumAnimalSeason { // enumeration = перечисление (сокр. enum)
     public static void main(String[] args) {
-        Animal animal = Animal.Cat;
+        Animal animal = Animal.CAT;
         System.out.println(animal.getTranslation() + " перевод");
 
         switch (animal) {
-            case Cat:
+            case CAT:
                 System.out.println("cat");
                 break;
-            case Dog:
+            case DOG:
                 System.out.println("dog");
                 break;
         }
         // наследование
 //        Object --> Enum --> Sesason
 
-        Season season = Season.Summer;
+        Season season = Season.SUMMER;
 //        instanceof проверяет является ли объект season объектом класса Season
         System.out.println(season instanceof Season);
         System.out.println(season instanceof Enum);
@@ -27,10 +27,10 @@ public class EnumAnimalSeason { // enumeration = перечисление (со�
         System.out.println(animal instanceof Animal);
 
         switch (season) {
-            case Summer:
+            case SUMMER:
                 System.out.println("It's warm outside");
                 break;
-            case Winter:
+            case WINTER:
                 System.out.println("It's cold outside");
         }
     }

@@ -1,9 +1,10 @@
 package Kata.alishev;
 
 public enum Season {
-    Summer(38), Winter(-45), Autumn(10 ), Spring(20);
+    SUMMER(38), WINTER(-45), AUTUMN(10), SPRING(20);
     private int temperature;
+
     Season(int temperature) {
-this.temperature = temperature;
+        this.temperature = temperature;
     }
 }
