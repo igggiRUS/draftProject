@@ -2,7 +2,7 @@ package java224.hw05ifElse;
 
 // 7:43 https://www.youtube.com/watch?v=snRFphzl-bU
 public class Task02 {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
 
         long start = System.nanoTime();
 
@@ -24,13 +24,13 @@ public class Task02 {
                 System.out.println(startup);
             //             выполнение какой-то логики
         }
-        Thread.sleep(1000);
-        long finish = System.nanoTime();
-        long elapsed = finish - start;
-        System.out.printf("Прошло времени, нс: %33d:\n", elapsed);
-        System.out.printf("Прошло времени, мкс: %32d:\n", (elapsed / 1_000));
-        System.out.printf("Прошло времени, мс: %33d:\n", (elapsed / 1_000_000));
-        System.out.printf("Прошло времени, сек: %32d:\n", (elapsed / 1_000_000_000));
+//        Thread.sleep(1000);
+//        long finish = System.nanoTime();
+//        long elapsed = finish - start;
+//        System.out.printf("Прошло времени, нс: %33d:\n", elapsed);
+//        System.out.printf("Прошло времени, мкс: %32d:\n", (elapsed / 1_000));
+//        System.out.printf("Прошло времени, мс: %33d:\n", (elapsed / 1_000_000));
+//        System.out.printf("Прошло времени, сек: %32d:\n", (elapsed / 1_000_000_000));
     }
 }
 

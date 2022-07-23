@@ -1,4 +1,4 @@
-package if05;
+package java224.if05;
 
 public class doWhile {
 	public static void main(String[] args) {
