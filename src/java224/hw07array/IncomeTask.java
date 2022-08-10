@@ -1,4 +1,4 @@
-package java224.hw06ifElse;
+package java224.hw07array;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -5,18 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d65bbff-f6ce-4231-ba48-2d80a71a7253" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/App0101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/App0202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/App0303.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/App0404.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/App0505.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/IncomeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/IncomeTask_Antipod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/RandomNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/WierdExamples_v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0301.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0302.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0401.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0402.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Test000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Test001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Test002.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/lesson06/task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/lesson06/task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw05ifElse/Task12_ERROR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw06ifElse/App0303.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/App0303.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw06ifElse/App0404.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/App0404.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw06ifElse/App0505.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/App0505.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw06ifElse/IncomeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw07array/IncomeTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw06ifElse/IncomeTask_Antipod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw07array/IncomeTask_Antipod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw06ifElse/RandomNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw07array/RandomNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw06ifElse/WierdExamples_v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw07array/WierdExamples_v2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/if05/doWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw05ifElse/doWhile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,17 +59,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/misha/Документы/git/draftProject/src/java224/hw06ifElse",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/misha/Документы/git/draftProject/src/java224/hw06ifElse&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="java224.hw05ifElse" />
@@ -68,13 +79,14 @@
       <recent name="$PROJECT_DIR$/src/java224/if05" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java224.hw06ifElse" />
       <recent name="java224.hw05ifElse" />
       <recent name="String27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App0606">
-    <configuration name="App0101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.App0101" />
+  <component name="RunManager" selected="Application.Task0501">
+    <configuration name="App0202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.App0202" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App0303" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.App0303" />
+    <configuration name="Task0101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.Task0101" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App0404" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.App0404" />
+    <configuration name="Task0401" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.Task0401" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App0505" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.App0505" />
+    <configuration name="Task0402" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.Task0402" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +137,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App0606" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.App0606" />
+    <configuration name="Task0501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.Task0501" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App0606" />
-        <item itemvalue="Application.App0505" />
-        <item itemvalue="Application.App0404" />
-        <item itemvalue="Application.App0303" />
-        <item itemvalue="Application.App0101" />
+        <item itemvalue="Application.Task0501" />
+        <item itemvalue="Application.Task0402" />
+        <item itemvalue="Application.Task0401" />
+        <item itemvalue="Application.Task0101" />
+        <item itemvalue="Application.App0202" />
       </list>
     </recent_temporary>
   </component>
@@ -417,46 +429,320 @@
           <option name="timeStamp" value="205" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0101.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="206" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0101.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="207" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0101.java</url>
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0505.java</url>
           <line>10</line>
-          <option name="timeStamp" value="208" />
+          <option name="timeStamp" value="217" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0101.java</url>
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0505.java</url>
           <line>11</line>
-          <option name="timeStamp" value="209" />
+          <option name="timeStamp" value="218" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0101.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="210" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0101.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="211" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0101.java</url>
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0505.java</url>
           <line>12</line>
-          <option name="timeStamp" value="212" />
+          <option name="timeStamp" value="219" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0101.java</url>
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0505.java</url>
           <line>13</line>
-          <option name="timeStamp" value="213" />
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0505.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0505.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0505.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0505.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0505.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0606.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0303.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0303.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0303.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0303.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0303.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0303.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0404.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0404.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0404.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0404.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0404.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0404.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/App0404.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Test001.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Test001.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Test001.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Test001.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Test001.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Test000.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Test000.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Test000.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Test000.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Test000.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Test000.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Test000.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="357" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

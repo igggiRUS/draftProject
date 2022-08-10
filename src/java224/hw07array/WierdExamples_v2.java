@@ -1,7 +1,7 @@
 //
 // Набор странных примеров, которые либо что-то прояснят, либо запутают вас
 //
-package java224.hw06ifElse;
+package java224.hw07array;
 
 import java.util.Arrays;
 import java.util.Scanner;
