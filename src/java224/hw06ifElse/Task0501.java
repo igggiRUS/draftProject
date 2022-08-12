@@ -10,9 +10,10 @@ public class Task0501 {
 //                код на пустой квадрат
 //
 //        Верхняя стенка
-//        for (int j = 1; j <= size; j++) {
-//            System.out.print("a ");
-//        }
+        for (int j = 1; j <= size; j++) {
+            System.out.print("a ");
+        }
+        // квадрат
         System.out.println();
         for (int i = 1; i <= size - 2; i++) {
             System.out.print("b ");
@@ -23,10 +24,10 @@ public class Task0501 {
             System.out.println();
         }
 //        нижняя стенка
-//        for (int j = 1; j <= size; j++) {
-//            System.out.print("f ");
+        for (int j = 1; j <= size; j++) {
+            System.out.print("f ");
         }
 
 //        System.out.println();
     }
-//}
+}
