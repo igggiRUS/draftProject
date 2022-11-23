@@ -4,51 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d65bbff-f6ce-4231-ba48-2d80a71a7253" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Alishev/App011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alishev/AppArray_multi_013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alishev/AppArray_of_String_012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hexlet/App20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hexlet/SSD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test1301.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test1302Dasha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App26DontDELETE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App270001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App270002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App270003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App27ver07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App27ver08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App2829.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/ConsoleLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/WWW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/App28v01Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/ArrayApp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/ArrayLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/ArryaApp0102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/ArryaLength160201.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/ReturnFull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/ReturnMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/StrLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/Test000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/Test0000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/Test28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/Test29v01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/TestDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/UPTS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik90684/nested33/example333.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik90684/nested33/example334.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0d65bbff-f6ce-4231-ba48-2d80a71a7253" name="Changes" comment="123">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0504.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0504.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alishev/ClassesAndObject014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Alishev/ClassesAndObject014.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,26 +72,13 @@
       <command value="substring" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppArray_multi_013">
+  <component name="RunManager" selected="Application.ClassesAndObject014">
     <configuration name="App011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Alishev.App011" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Alishev.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App28v01Teacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.hexlet.shablon.App28v01Teacher" />
-      <module name="draftProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.hexlet.shablon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,13 +125,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClassesAndObject014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alishev.ClassesAndObject014" />
+      <module name="draftProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Alishev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassesAndObject014" />
         <item itemvalue="Application.AppArray_multi_013" />
         <item itemvalue="Application.AppArray_of_String_012" />
         <item itemvalue="Application.App011" />
         <item itemvalue="Application.ArrayLength" />
-        <item itemvalue="Application.App28v01Teacher" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +160,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653598899660</updated>
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1669231907773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669231907773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +180,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
