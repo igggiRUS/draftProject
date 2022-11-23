@@ -5,19 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d65bbff-f6ce-4231-ba48-2d80a71a7253" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Delete001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task010101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task020101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task030101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task040101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0502.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0503.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0504.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Test0006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Test003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Test004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alishev/App011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alishev/AppArray_multi_013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alishev/AppArray_of_String_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hexlet/App20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hexlet/SSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test1301.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test1302Dasha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hexlet/Test19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App26DontDELETE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App270001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App270002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App270003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App27ver07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App27ver08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/App2829.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/ConsoleLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/WWW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/App28v01Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/ArrayApp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/ArrayLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/ArryaApp0102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/ArryaLength160201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/ReturnFull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/ReturnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/StrLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/Test000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/Test0000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/Test28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/Test29v01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/TestDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/shablon/UPTS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/nested33/example333.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik90684/nested33/example334.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0501.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0504.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java224/hw06ifElse/Task0504.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wq.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,15 +84,17 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/misha/Документы/git/draftProject/src/java224/hw06ifElse&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/misha/Документы/git/draftProject&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.space&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="stepik90684.Hexlet" />
       <recent name="java224.hw05ifElse" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -69,18 +102,25 @@
       <recent name="$PROJECT_DIR$/src/java224/if05" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.hexlet.shablon" />
+      <recent name="io.hexlet" />
+      <recent name="stepik90684.nested33" />
+      <recent name="stepik90684.Hexlet" />
       <recent name="java224.hw06ifElse" />
-      <recent name="java224.hw05ifElse" />
-      <recent name="String27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task0503">
-    <configuration name="Task0101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.Task0101" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="substring" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AppArray_multi_013">
+    <configuration name="App011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alishev.App011" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java224.hw06ifElse.*" />
+          <option name="PATTERN" value="Alishev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task0502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.Task0502" />
+    <configuration name="App28v01Teacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.hexlet.shablon.App28v01Teacher" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java224.hw06ifElse.*" />
+          <option name="PATTERN" value="io.hexlet.shablon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task0503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.Task0503" />
+    <configuration name="AppArray_multi_013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alishev.AppArray_multi_013" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java224.hw06ifElse.*" />
+          <option name="PATTERN" value="Alishev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.Test000" />
+    <configuration name="AppArray_of_String_012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alishev.AppArray_of_String_012" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java224.hw06ifElse.*" />
+          <option name="PATTERN" value="Alishev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java224.hw06ifElse.Test003" />
+    <configuration name="ArrayLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.hexlet.shablon.ArrayLength" />
       <module name="draftProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java224.hw06ifElse.*" />
+          <option name="PATTERN" value="io.hexlet.shablon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task0503" />
-        <item itemvalue="Application.Test003" />
-        <item itemvalue="Application.Test000" />
-        <item itemvalue="Application.Task0101" />
-        <item itemvalue="Application.Task0502" />
+        <item itemvalue="Application.AppArray_multi_013" />
+        <item itemvalue="Application.AppArray_of_String_012" />
+        <item itemvalue="Application.App011" />
+        <item itemvalue="Application.ArrayLength" />
+        <item itemvalue="Application.App28v01Teacher" />
       </list>
     </recent_temporary>
   </component>
@@ -772,6 +812,201 @@
           <url>file://$PROJECT_DIR$/src/java224/hw06ifElse/Task040101.java</url>
           <line>56</line>
           <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/inputIF33/Example333v4.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/nested33/example334.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/nested33/example334.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/nested33/example334.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/nested33/example334.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="374" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/nested33/example334.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/nested33/example334.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="376" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/nested33/example334.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/nested33/example334.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/nested33/example334.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/nested33/example334.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/nested33/example334.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/nested33/example334.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stepik90684/nested33/example334.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/App270001.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/App270001.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/App270001.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/App270001.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/App270003.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/App270003.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01Teacher.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01Teacher.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01Teacher.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="430" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01Teacher.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="431" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/App28v01Teacher.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/App2829.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/shablon/ArrayLength.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="471" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
